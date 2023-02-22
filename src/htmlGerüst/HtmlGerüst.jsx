@@ -52,13 +52,15 @@ const HtmlGerüst = () => {
         id = datenArrayObj2[1].id
         img = datenArrayObj2[1].img
 
+
         console.log(text1)
 
     }
 
     return (
         /* // * 0.1 html bauen */
-        <section>
+        <section style={{backgroundImage: `url(${img})` }}>
+       
             <h2>{text1} {imgSrc} </h2>
             <img src={img} alt={text1 + " und ein Bild dazu"}/>
 

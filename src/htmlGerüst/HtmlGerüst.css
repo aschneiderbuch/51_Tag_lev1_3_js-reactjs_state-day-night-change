@@ -1,3 +1,22 @@
+section {
+  display: flex;
+  flex-direction: column;
+  width: 60vw;
+  text-align: center;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 20px;
+}
 section h2 {
+  margin-top: 80px;
   color: red;
+  margin-bottom: -100px;
+  z-index: 1;
+}
+section img {
+  margin: 0 auto;
+  width: 90%;
+  border-radius: 50%;
+  padding: 10px;
 }/*# sourceMappingURL=HtmlGerüst.css.map */
