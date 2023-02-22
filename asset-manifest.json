@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/51_Tag_lev1_3_js-reactjs_state-day-night-change/static/css/main.c539dd30.css",
+    "main.js": "/51_Tag_lev1_3_js-reactjs_state-day-night-change/static/js/main.d08c70da.js",
+    "static/js/787.dc84f290.chunk.js": "/51_Tag_lev1_3_js-reactjs_state-day-night-change/static/js/787.dc84f290.chunk.js",
+    "static/media/bild_1_nacht.avif": "/51_Tag_lev1_3_js-reactjs_state-day-night-change/static/media/bild_1_nacht.72d924e884398cbe5e23.avif",
+    "static/media/bild_0_tag.avif": "/51_Tag_lev1_3_js-reactjs_state-day-night-change/static/media/bild_0_tag.b33c912c53d32690e989.avif",
+    "index.html": "/51_Tag_lev1_3_js-reactjs_state-day-night-change/index.html",
+    "main.c539dd30.css.map": "/51_Tag_lev1_3_js-reactjs_state-day-night-change/static/css/main.c539dd30.css.map",
+    "main.d08c70da.js.map": "/51_Tag_lev1_3_js-reactjs_state-day-night-change/static/js/main.d08c70da.js.map",
+    "787.dc84f290.chunk.js.map": "/51_Tag_lev1_3_js-reactjs_state-day-night-change/static/js/787.dc84f290.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c539dd30.css",
+    "static/js/main.d08c70da.js"
+  ]
+}
